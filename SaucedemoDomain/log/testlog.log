@@ -1,0 +1,34 @@
+2024-11-26 14:35:39,278 - Luma Domain. -INFO - ------------ ::  Execution Start  :: ------------
+2024-11-26 14:35:40,139 - Luma Domain. -INFO - Open Loggin Page.
+2024-11-26 14:35:40,210 - Luma Domain. -INFO - Login page Assertion passed.
+2024-11-26 14:35:41,605 - Luma Domain. -INFO - Enter UserNamestandard_user
+2024-11-26 14:35:43,766 - Luma Domain. -INFO - Enter Passwordsecret_sauce
+2024-11-26 14:35:48,573 - Luma Domain. -INFO - User in on Product Page Assertion passed.
+2024-11-26 14:35:49,154 - Luma Domain. -INFO - Select price from low to high
+2024-11-26 14:35:53,568 - Luma Domain. -INFO - Scroll down by 100
+2024-11-26 14:35:53,878 - Luma Domain. -INFO - First Product Added: Name = Sauce Labs Backpack, Price = $29.99
+2024-11-26 14:35:54,084 - Luma Domain. -INFO - Second Product Added: Name = Test.allTheThings() T-Shirt (Red), Price = $15.99
+2024-11-26 14:35:55,145 - Luma Domain. -INFO - User is on cart page.
+2024-11-26 14:35:55,341 - Luma Domain. -INFO - User is on Cart Page Assertion passed.
+2024-11-26 14:35:57,452 - Luma Domain. -INFO - First Product assertion passed. Name: Sauce Labs Backpack, Price: $29.99
+2024-11-26 14:35:57,577 - Luma Domain. -INFO - Second Product assertion passed. Name: Test.allTheThings() T-Shirt (Red), Price: $15.99
+2024-11-26 14:35:57,577 - Luma Domain. -INFO - Both products verified successfully in the cart.
+2024-11-26 14:36:00,365 - Luma Domain. -INFO - User is on Chekout information page
+2024-11-26 14:36:00,476 - Luma Domain. -INFO - User is on Cart Page Information Assertion passed.
+2024-11-26 14:36:02,867 - Luma Domain. -INFO - Entered First Name
+2024-11-26 14:36:03,054 - Luma Domain. -INFO - Entered Last Name
+2024-11-26 14:36:03,213 - Luma Domain. -INFO - Entered Potal Code 
+2024-11-26 14:36:05,422 - Luma Domain. -INFO - User click on continue button.
+2024-11-26 14:36:08,043 - Luma Domain. -INFO - User is on Overview page
+2024-11-26 14:36:08,195 - Luma Domain. -INFO - Overview page Assertion passed.
+2024-11-26 14:36:08,246 - Luma Domain. -INFO - Payment info Assertion passed.
+2024-11-26 14:36:08,330 - Luma Domain. -INFO - Payment info Assertion passed.
+2024-11-26 14:36:08,355 - Luma Domain. -INFO - Scrolled Down.
+2024-11-26 14:36:08,401 - Luma Domain. -INFO - Subtotal assertion passed.
+2024-11-26 14:36:08,449 - Luma Domain. -INFO - Tax assertion passed.
+2024-11-26 14:36:08,489 - Luma Domain. -INFO - Total assertion passed.
+2024-11-26 14:36:33,085 - Luma Domain. -INFO - Dispatch info Assertion passed.
+2024-11-26 14:36:33,098 - Luma Domain. -INFO - Scrolled UP.
+2024-11-26 14:36:35,204 - Luma Domain. -INFO - Close Menu Clicked.
+2024-11-26 14:36:37,507 - Luma Domain. -INFO - Logout Clicked.
+2024-11-26 14:36:37,977 - Luma Domain. -INFO - ------------ ::  Done  :: ------------

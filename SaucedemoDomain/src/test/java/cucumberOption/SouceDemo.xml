@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SouceSuite">
+  
+  <listeners>
+	  <listener class-name="sauceUtil.ExtentReporterNG"/>
+  </listeners>
+  
+  <test  name="CouceTest">
+	  
+	  <classes>
+		  <class name="cucumberOption.SauseRunner"/>
+	  </classes>
+  </test> 
+  
+</suite> 
